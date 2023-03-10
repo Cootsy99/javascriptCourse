@@ -1,2 +1,1 @@
-hi
-hi
+#JAVASCRIPT COURSE\n##HEADING2
